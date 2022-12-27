@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QrhiUwp9XgOKngsR13iyzrf2+GTm0cSzp1by4LscrfC/VyLxayO//aC53CYyd1vwVt2HtzjgWVDr63V1MHDxcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90553\\Desktop\\Ecomm\\EcommAPI\\EcommAPI\\Infrastructure\\EcommAPI_Persistence\\EcommAPI_Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

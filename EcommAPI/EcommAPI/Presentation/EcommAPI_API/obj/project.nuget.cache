@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1PzXxMg37TLJGfOHLBMI0hSQKXyjQAup8RBE81QDhvZTkL9AjXnCbu/BMKIB0MrWnX6q1Te0wHHfZFmlwPDGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90553\\Desktop\\Ecomm\\EcommAPI\\EcommAPI\\Presentation\\EcommAPI_API\\EcommAPI_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Product List</h2>
+<br />
+
+<table class="table table-sm table-bordered">
+    <thead class="bg-primary text-white">
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>isApproved</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td>
+                    @if (item.isApproved)
+                    {
+                        <text>Approved</text>
+                    }
+                    else{
+                        <text>Waiting Approve</text>
+                    }
+                </td>
+                <td><a asp-controller="Home" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Update</a> </td>
+            </tr>
+        }
+    </tbody>
+    <a class="btn btn-primary" asp-controller="Home" asp-action="Create">Create</a>
+</table>
+
